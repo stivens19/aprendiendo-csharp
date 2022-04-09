@@ -1,0 +1,14 @@
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

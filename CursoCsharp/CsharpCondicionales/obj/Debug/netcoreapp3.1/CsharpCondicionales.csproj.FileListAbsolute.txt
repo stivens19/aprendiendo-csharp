@@ -1,0 +1,14 @@
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\bin\Debug\netcoreapp3.1\CsharpCondicionales.exe
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\bin\Debug\netcoreapp3.1\CsharpCondicionales.deps.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\bin\Debug\netcoreapp3.1\CsharpCondicionales.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\bin\Debug\netcoreapp3.1\CsharpCondicionales.runtimeconfig.dev.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\bin\Debug\netcoreapp3.1\CsharpCondicionales.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\bin\Debug\netcoreapp3.1\CsharpCondicionales.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpCondicionales\obj\Debug\netcoreapp3.1\CsharpCondicionales.genruntimeconfig.cache

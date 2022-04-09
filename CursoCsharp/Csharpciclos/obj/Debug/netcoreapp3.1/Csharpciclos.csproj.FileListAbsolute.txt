@@ -1,0 +1,14 @@
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\bin\Debug\netcoreapp3.1\Csharpciclos.exe
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\bin\Debug\netcoreapp3.1\Csharpciclos.deps.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\bin\Debug\netcoreapp3.1\Csharpciclos.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\bin\Debug\netcoreapp3.1\Csharpciclos.runtimeconfig.dev.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\bin\Debug\netcoreapp3.1\Csharpciclos.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\bin\Debug\netcoreapp3.1\Csharpciclos.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\Csharpciclos\obj\Debug\netcoreapp3.1\Csharpciclos.genruntimeconfig.cache

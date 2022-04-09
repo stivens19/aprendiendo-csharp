@@ -1,0 +1,14 @@
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\bin\Debug\netcoreapp3.1\CsharpColecciones.exe
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\bin\Debug\netcoreapp3.1\CsharpColecciones.deps.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\bin\Debug\netcoreapp3.1\CsharpColecciones.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\bin\Debug\netcoreapp3.1\CsharpColecciones.runtimeconfig.dev.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\bin\Debug\netcoreapp3.1\CsharpColecciones.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\bin\Debug\netcoreapp3.1\CsharpColecciones.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.genruntimeconfig.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpColecciones\obj\Debug\netcoreapp3.1\CsharpColecciones.csproj.AssemblyReference.cache
