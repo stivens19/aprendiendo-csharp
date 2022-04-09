@@ -1,0 +1,15 @@
+D:\udemy\Aprendiendo-c#\dotnetdemo\bin\Debug\net6.0\dotnetdemo.exe
+D:\udemy\Aprendiendo-c#\dotnetdemo\bin\Debug\net6.0\dotnetdemo.deps.json
+D:\udemy\Aprendiendo-c#\dotnetdemo\bin\Debug\net6.0\dotnetdemo.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\dotnetdemo\bin\Debug\net6.0\dotnetdemo.dll
+D:\udemy\Aprendiendo-c#\dotnetdemo\bin\Debug\net6.0\dotnetdemo.pdb
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.dll
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\refint\dotnetdemo.dll
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.pdb
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\dotnetdemo.genruntimeconfig.cache
+D:\udemy\Aprendiendo-c#\dotnetdemo\obj\Debug\net6.0\ref\dotnetdemo.dll
