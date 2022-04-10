@@ -12,3 +12,5 @@ D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcore
 D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.dll
 D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.pdb
 D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.genruntimeconfig.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.csproj.CopyComplete
