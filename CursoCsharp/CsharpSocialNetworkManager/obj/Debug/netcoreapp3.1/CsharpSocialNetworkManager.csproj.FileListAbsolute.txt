@@ -1,0 +1,14 @@
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\CsharpSocialNetworkManager.exe
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\CsharpSocialNetworkManager.deps.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\CsharpSocialNetworkManager.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\CsharpSocialNetworkManager.runtimeconfig.dev.json
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\CsharpSocialNetworkManager.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\bin\Debug\netcoreapp3.1\CsharpSocialNetworkManager.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.dll
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.pdb
+D:\udemy\Aprendiendo-c#\CursoCsharp\CsharpSocialNetworkManager\obj\Debug\netcoreapp3.1\CsharpSocialNetworkManager.genruntimeconfig.cache
