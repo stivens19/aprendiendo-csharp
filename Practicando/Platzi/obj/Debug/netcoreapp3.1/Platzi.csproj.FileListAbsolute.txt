@@ -1,0 +1,14 @@
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\bin\Debug\netcoreapp3.1\Platzi.exe
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\bin\Debug\netcoreapp3.1\Platzi.deps.json
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\bin\Debug\netcoreapp3.1\Platzi.runtimeconfig.json
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\bin\Debug\netcoreapp3.1\Platzi.runtimeconfig.dev.json
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\bin\Debug\netcoreapp3.1\Platzi.dll
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\bin\Debug\netcoreapp3.1\Platzi.pdb
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.dll
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.pdb
+D:\udemy\Aprendiendo-c#\Platzi\Platzi\obj\Debug\netcoreapp3.1\Platzi.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\bin\Debug\net6.0\CoWorkingApp.Models.deps.json
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\bin\Debug\net6.0\CoWorkingApp.Models.dll
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\bin\Debug\net6.0\CoWorkingApp.Models.pdb
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.csproj.AssemblyReference.cache
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.AssemblyInfoInputs.cache
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.AssemblyInfo.cs
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.csproj.CoreCompileInputs.cache
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.dll
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\refint\CoWorkingApp.Models.dll
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\CoWorkingApp.Models.pdb
+D:\udemy\Aprendiendo-c#\CoWorkingApp\CoWorkingApp.Models\obj\Debug\net6.0\ref\CoWorkingApp.Models.dll

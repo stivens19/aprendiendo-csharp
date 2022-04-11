@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platzi", "Platzi\Platzi.csproj", "{77A2D720-A2DF-459E-B78F-5BABFA7013F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloWorldGrafico", "helloWorldGrafico\helloWorldGrafico.csproj", "{29C3F72F-0FC1-4E2B-9854-67485EE9CD57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A2D720-A2DF-459E-B78F-5BABFA7013F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A2D720-A2DF-459E-B78F-5BABFA7013F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A2D720-A2DF-459E-B78F-5BABFA7013F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A2D720-A2DF-459E-B78F-5BABFA7013F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C3F72F-0FC1-4E2B-9854-67485EE9CD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C3F72F-0FC1-4E2B-9854-67485EE9CD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C3F72F-0FC1-4E2B-9854-67485EE9CD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C3F72F-0FC1-4E2B-9854-67485EE9CD57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B15A829F-FEAE-4EFC-A923-241FE4B70EC3}
+	EndGlobalSection
+EndGlobal

@@ -4,8 +4,8 @@ using System.Text;
 
 namespace CsharpSocialNetworkManager.Utilities.Log
 {
-    public interface ILog
+    public interface ILog<T>
     {
-        void SaveLog(string action);
+        void SaveLog(T action);
     }
 }

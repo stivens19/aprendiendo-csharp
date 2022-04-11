@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CsharpSocialNetworkManager.Utilities.Log
 {
-    public class LogText:ILog
+    public class LogText:ILog<string>,ILogText
     {
         public void SaveLog(string action)
         {
@@ -22,6 +22,18 @@ namespace CsharpSocialNetworkManager.Utilities.Log
             streamWriter.WriteLine($"{DateTime.Now} - {action}");
             streamWriter.WriteLine(currentContent);
             streamWriter.Close();
+        }
+        public string GetLogText()
+        {
+            string logPath = Directory.GetCurrentDirectory() + @"\Log.txt";
+            var currentContent = string.Empty;
+            if (File.Exists(logPath))
+            {
+                var streamReader = new StreamReader(logPath);
+                currentContent = streamReader.ReadToEnd();
+                streamReader.Close();
+            }
+            return currentContent;
         }
     }
 }

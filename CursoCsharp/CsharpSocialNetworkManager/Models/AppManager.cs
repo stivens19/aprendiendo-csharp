@@ -11,8 +11,8 @@ namespace CsharpSocialNetworkManager.Models
         public string AppTitle { get; set; }
         public List<SocialNetwork> SocialNetworks { get; set; }
         public List<SocialNetworkWithGroups> SocialNetworkWithGroups { get; set; }
-        public ILog log { get; set; }
-        public AppManager(ILog logger)
+        public ILog<string> log { get; set; }
+        public AppManager(ILog<string> logger)
         {
             log = logger;
             AppTitle = "Administrador de Redes Sociales";
